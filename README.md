@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Praveen Kumar 👋</h1>
 
 <p align="center">
-  <b>B.Tech IT @ Delhi Technological University (DTU) | Batch 2023–27</b><br/>
+  <b>B.Tech IT @ Delhi Technological University (DTU) | Batch 2024–28</b><br/>
   <i>Building problem-solving skills one commit at a time 🚀</i>
 </p>
 
@@ -15,7 +15,6 @@
 - 🧩 Solved **115+ problems** on LeetCode
 - 📚 Learning: **Data Structures, Algorithms, DBMS, OS, OOP**
 - 🎯 Goal: Crack a great SDE role by 2027
-- ⚡ Fun fact: I debug faster with chai ☕
 
 ---
 
