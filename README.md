@@ -14,7 +14,6 @@
 - 🧩 Solved **140+ problems** on LeetCode
 - 📚 Learning: **Data Structures, Algorithms, DBMS, OS, OOP**
 - 🎯 Goal: Crack a great SDE role by 2027
-- ⚡ Fun fact: I debug faster with chai ☕
 
 ---
 
