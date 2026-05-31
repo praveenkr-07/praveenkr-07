@@ -1,7 +1,8 @@
+[profile_README.md](https://github.com/user-attachments/files/28435055/profile_README.md)
 <h1 align="center">Hey, I'm Praveen Kumar 👋</h1>
 
 <p align="center">
-  <b>B.Tech IT @ Delhi Technological University (DTU) | Batch 2024–28</b><br/>
+  <b>B.Tech IT @ Delhi Technological University (DTU) | Batch 2023–27</b><br/>
   <i>Building problem-solving skills one commit at a time 🚀</i>
 </p>
 
@@ -11,9 +12,10 @@
 
 - 🎓 2nd year IT student at **DTU, Delhi**
 - 💻 Currently grinding **DSA in C++** and preparing for placements
-- 🧩 Solved **140+ problems** on LeetCode
+- 🧩 Solved **115+ problems** on LeetCode
 - 📚 Learning: **Data Structures, Algorithms, DBMS, OS, OOP**
 - 🎯 Goal: Crack a great SDE role by 2027
+- ⚡ Fun fact: I debug faster with chai ☕
 
 ---
 
@@ -68,8 +70,8 @@
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/parveen-kumar-872681313)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/praveenkr-07](https://leetcode.com/u/9AxV8MElCy/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parveen-kumar-872681313/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/9AxV8MElCy/)
 
 ---
 
@@ -78,5 +80,3 @@
 </p>
 
 <p align="center"><i>"Consistency beats perfection. Show up every day." 💪</i></p>
-
-[profile_README.md](https://github.com/user-attachments/files/28434853/profile_README.md)
