@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Praveen Kumar 👋</h1>
 
 <p align="center">
-  <b>B.Tech IT @ Delhi Technological University (DTU) | Batch 2023–27</b><br/>
+  <b>B.Tech IT @ Delhi Technological University (DTU) | Batch 2024–28</b><br/>
   <i>Building problem-solving skills one commit at a time 🚀</i>
 </p>
 
