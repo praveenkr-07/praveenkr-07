@@ -12,7 +12,7 @@
 
 - 🎓 2nd year IT student at **DTU, Delhi**
 - 💻 Currently grinding **DSA in C++** and preparing for placements
-- 🧩 Solved **115+ problems** on LeetCode
+- 🧩 Solved **150+ problems** on LeetCode
 - 📚 Learning: **Data Structures, Algorithms, DBMS, OS, OOP**
 - 🎯 Goal: Crack a great SDE role by 2027
 
