@@ -48,10 +48,11 @@
 | Stacks & Queues | ✅ Done |
 | Recursion | ✅ Done |
 | Sorting Algorithms | ✅ Done |
-| Binary Trees | 🔄 In Progress |
-| Dynamic Programming | 🔄 In Progress |
+| Binary Trees | ✅ Done |
+| Binary Search Trees | 🔄 In Progress |
+| Heaps | 🔄 In Progress |
 | Graphs | ⏳ Upcoming |
-
+| Dynamic Programming | ⏳ Upcoming |
 ---
 
 ### 📈 GitHub Stats
