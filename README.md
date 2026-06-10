@@ -49,7 +49,7 @@
 | Recursion | ✅ Done |
 | Sorting Algorithms | ✅ Done |
 | Binary Trees | ✅ Done |
-| Binary Search Trees | 🔄 In Progress |
+| Binary Search Trees | ✅ Done |
 | Heaps | 🔄 In Progress |
 | Graphs | ⏳ Upcoming |
 | Dynamic Programming | ⏳ Upcoming |
