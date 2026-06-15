@@ -50,7 +50,7 @@
 | Sorting Algorithms | ✅ Done |
 | Binary Trees | ✅ Done |
 | Binary Search Trees | ✅ Done |
-| Heaps | 🔄 In Progress |
+| Heaps | ✅ Done |
 | Graphs | ⏳ Upcoming |
 | Dynamic Programming | ⏳ Upcoming |
 ---
