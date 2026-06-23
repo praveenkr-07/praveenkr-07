@@ -51,9 +51,10 @@
 | Binary Trees | ✅ Done |
 | Binary Search Trees | ✅ Done |
 | Heaps | ✅ Done |
-| Greedy  | 🔄 Progress |
+| Greedy  |✅ Done |
+| Dynamic Programming | 🔄 Progress |
 | Graphs | ⏳ Upcoming |
-| Dynamic Programming | ⏳ Upcoming |
+
 ---
 
 ### 📈 GitHub Stats
